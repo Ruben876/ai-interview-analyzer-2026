@@ -1,0 +1,7 @@
+streamlit
+textblob
+opencv-python
+speechrecognition
+deepface
+numpy
+tf-keras
